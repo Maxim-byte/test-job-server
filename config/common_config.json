@@ -1,0 +1,8 @@
+{
+  "network_config": {
+    "host": "127.0.0.1",
+    "port": 8010,
+    "timeout_socket_s": 5
+  },
+  "logger_name" : "console_logger"
+}
