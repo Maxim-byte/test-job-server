@@ -6,7 +6,7 @@
 
 class config {
 public:
-    constexpr static std::string_view path_to_config = "/home/maxim/CLionProjects/test_job_server/config/common_config.json";
+    constexpr static std::string_view path_to_config = "../../config/common_config.json";
 
     static config &instance() {
         static config config;
